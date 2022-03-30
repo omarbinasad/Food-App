@@ -2,3 +2,50 @@ body {
   background-color: #f4faff;
   font-family: "Poppins", sans-serif;
 }
+/* Delevery Location */
+
+.form-style{
+  border: 0px;
+  background: none;
+}
+.formCard{
+  height: 100% !important;
+  width: 100%;
+  border-radius: 20px !important;
+}
+/* Button  */
+.button-praimary{
+  background: #FF5C00;
+  color:#FFFFFF ;
+  border-radius: 15px;
+  border: 0px;
+  
+  
+}
+.button-white{
+  background: #E7EAF0;
+
+  color:#FFFFFF ;
+  border-radius: 15px;
+  border: 0px;
+  
+  
+}
+.button-secondary{
+  background: #FFf ;
+  color:#7C90B8 !important;
+  
+  
+
+}
+.button-secondary:hover{
+  background: #FF5C00;
+  border-radius: 15px;
+  color: #FFFFFF !important;
+
+  
+}
+
+.primaryclr{
+  background: #FF5C00;
+}
